@@ -9,3 +9,5 @@ Future plans (what kind of work? what role? where?): I am interested to work as 
 LinkedIn profile: [Nikhil Pannala](https://www.linkedin.com/in/nikhil-reddy-pannala-a8aaba211/)
 
 Github profile: [Nikhil Pannala](https://github.com/nikhilreddy012)
+
+Photo: ![Photo](Nikhil_img.jpg)
